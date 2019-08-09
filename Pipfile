@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+line-bot-sdk = "*"
+"beautifulsoup4" = "*"
+sqlalchemy = "*"
+flask-migrate = "*"
+"psycopg2-binary" = "*"
+nltk = "*"
+twstock = "*"
+jupyter = "*"
+imgurpython = "*"
+lxml = "*"
+scrapy = "*"
+twisted = "*"
+#"pywin32" = "*"
+gunicorn = "19.9.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
