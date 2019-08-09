@@ -1,0 +1,7 @@
+.idea/*
+migrations/*
+venv/*
+*.dll
+__pycache__/*
+env/*
+.ipynb_checkpoints/*
