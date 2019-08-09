@@ -1,6 +1,8 @@
 # MasterVAN
 
-### gunicorn app:app
+### Run app
+
+gunicorn app:app
 
 #### db init
 
