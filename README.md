@@ -12,7 +12,7 @@ python manager.py db migrate
 
 python manager.py db upgrade 
 
-##字典 連結
+## 字典 連結
 #### 27G
 https://github.com/pwxcoo/chinese-xinhua
 #### PTT training data
@@ -23,5 +23,6 @@ https://github.com/samejack/sc-dictionary
 https://github.com/lnishan/ChiChew
 #### 這是將「重編國語辭典（修訂本）」的公眾授權內容處理為機器比較容易再利用的 json 格式。辭典本文的著作權仍為教育部所有。
 https://github.com/g0v/moedict-data
+## 
 ∆∆
 ./dic/dict-revised.json 這邊來的
